@@ -1,14 +1,10 @@
 # Aplicación para análisis en la industria Oil & Gas
 
-https://img.shields.io/badge/Python-3.8%2B-blue
-
-https://img.shields.io/badge/License-MIT-green
-
-https://img.shields.io/badge/Framework-Streamlit-red
-
-https://img.shields.io/badge/Contributions-Welcome-brightgreen
-
-https://img.shields.io/badge/PRs-Welcome-orange
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
 
 $$
 S_w = \sqrt{ \frac{a \cdot R_w}{\phi^m \cdot R_t} }
